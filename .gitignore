@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# CMake
+cmake-build-debug
+
+# Echo
+*.echo.h
+*.echo.hh
+*.echo.hpp
+*.echo.hxx
